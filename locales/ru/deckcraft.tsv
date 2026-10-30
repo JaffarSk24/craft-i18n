@@ -375,7 +375,7 @@
 	Distributed	Распределённое
 	Do not Autofit	Без автоподбора
 	Do not check spelling or grammar	Не проверять орфографию и грамматику
-	Do you want to save the changes you made to {what}?	Сохранить изменения в {what}?
+	Do you want to save the changes you made to {what}?	{what}: сохранить изменения?
 	Do you want to save the changes you made to “{name}”?	Сохранить изменения, внесённые в «{name}»?
 	Don't show on title slide	Не показывать на титульном слайде
 	Doors	Двери
@@ -1285,9 +1285,11 @@
 	Zoom…	Масштаб…
 	{label} value	Значение: {label}
 	{name} options	{name}: параметры
+@plural	{n} presentation|{n} presentations	{n} презентация|{n} презентации|{n} презентаций
 	{n} slides per page	Слайдов на странице: {n}
 	{} of {}	{} из {}
 	“{from}” isn't used explicitly.	«{from}» явно не используется.
+	“{name}”	«{name}»
 	■ Stop	■ Стоп
 	▶ Play All	▶ Воспроизвести все
 	▶ Play From	▶ Воспроизвести с
