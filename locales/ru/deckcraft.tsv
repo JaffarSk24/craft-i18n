@@ -57,14 +57,12 @@
 	Accent 5	Акцент 5
 	Accent 6	Акцент 6
 	Accept	Принять
-	Accept All ({})	Принять все ({})
 	Accept Revision	Принять исправление
 	Accept\nAll	Принять\nвсе
 	Accessibility Checker	Проверка доступности
 	Account	Учётная запись
 	Across	Поперёк
 	Action	Действие
-	Action Button: {k}	Управляющая кнопка: {k}
 	Action Buttons	Управляющие кнопки
 	Action on click	Действие по щелчку
 	Action on mouse over	Действие при наведении указателя
@@ -167,7 +165,6 @@
 	Blue Pen	Синее перо
 	Body	Основной текст
 	Body font	Шрифт основного текста
-	Body sample  {minor}	Пример текста  {minor}
 	Body:	Основной текст:
 	Bold Flash	Яркая вспышка
 	Bottom bevel	Рельеф снизу
@@ -253,7 +250,6 @@
 	Community Links	Сообщество
 	Compare needs the desktop app for now	Сравнение пока доступно только в настольном приложении
 	Compare this presentation with a revised copy from Review › Compare.	Сравните эту презентацию с исправленной копией через Рецензирование › Сравнить.
-	Compared with {}	Сравнение с {}
 	Compare…	Сравнить…
 	Complementary Color	Дополнительный цвет
 	Compose Text	Набрать текст
@@ -274,7 +270,6 @@
 	Correct accidental use of cAPS LOCK key	Исправлять случайное нажатие cAPS LOCK
 	Correct TWo INitial CApitals	Исправлять ДВе ПРописные буквы в начале слова
 	Corrections	Коррекция
-	Could not check for updates: {e}	Не удалось проверить обновления: {e}
 	Counterclockwise	Против часовой стрелки
 	Cover	Наплыв
 	Create a PDF Document	Создать документ PDF
@@ -324,12 +319,10 @@
 	Date and time	Дата и время
 	Decaying Wave	Затухающая волна
 	Decimal Tab	Табуляция по разделителю
-	DeckCraft can't export “{other}”	DeckCraft не может экспортировать «{other}»
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	В DeckCraft нет учётных записей: входить никуда не нужно, а ваши презентации остаются на вашем устройстве.
 	DeckCraft Presentation (*.deckcraft)	Презентация DeckCraft (*.deckcraft)
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft печатает через PDF: файл скачивается, и его можно напечатать из браузера или программы просмотра PDF.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft печатает через PDF: файл открывается в программе просмотра PDF, где вы выбираете принтер.
-	DeckCraft {VERSION} is up to date.	Установлена последняя версия DeckCraft {VERSION}.
 	DeckCraft's own format: everything is kept	Собственный формат DeckCraft: сохраняется всё
 	Decrease List Level	Понизить уровень списка
 	Decrease {label}	Уменьшить: {label}
@@ -360,7 +353,6 @@
 	Diagonal Up Border	Диагональная граница снизу вверх
 	Diagonal Up Right	Диагональ вверх вправо
 	Diamonds From Left	Ромбы слева
-	Dictionary: {}	Словарь: {}
 	Disappear	Исчезновение
 	Display drawing guides on screen	Показывать направляющие на экране
 	Display grid on screen	Показывать сетку на экране
@@ -391,7 +383,6 @@
 	Drum Roll	Барабанная дробь
 	Duplicate Selected Slides	Дублировать выделенные слайды
 	Duplicate Slide	Дублировать слайд
-	Duration handle {}	Маркер длительности {}
 	Duration:	Длительность:
 	Dynamic Content	Динамическое содержимое
 	E-mail (96 ppi): minimise document size for sharing	Электронная почта (96 ppi): наименьший размер документа для отправки
@@ -497,7 +488,6 @@
 	Grab bag	Разное
 	Gradient bar	Шкала градиента
 	Gradient fill	Градиентная заливка
-	Gradient stop {}	Точка градиента {}
 	Gradient stops	Точки градиента
 	Gradient…	Градиент…
 	Grid and Guides	Сетка и направляющие
@@ -526,7 +516,6 @@
 	Header Row	Строка заголовка
 	Heading and body fonts for this presentation.	Шрифты заголовков и основного текста этой презентации.
 	Heading font	Шрифт заголовков
-	Heading sample  {major}	Пример заголовка  {major}
 	Heading:	Заголовок:
 	Heartbeat	Сердцебиение
 	Heavy	Жирное
@@ -575,7 +564,6 @@
 	Insert Picture in SmartArt…	Вставить рисунок в SmartArt…
 	Insert Placeholder	Вставить заполнитель
 	Insert Right	Вставить справа
-	Insert slides from {name} after the current slide:	Вставить слайды из {name} после текущего слайда:
 	Insert Synonym	Вставить синоним
 	Insert Table	Вставить таблицу
 	Insert Table…	Вставить таблицу…
@@ -585,7 +573,6 @@
 	Insert\nLeft	Вставить\nслева
 	Insert\nPlaceholder	Вставить\nзаполнитель
 	Insert\nRight	Вставить\nсправа
-	Inserted {} slides	Вставлено слайдов: {}
 	Insert…	Вставить…
 	Inside Borders	Внутренние границы
 	Inside Horizontal Border	Внутренняя горизонтальная граница
@@ -711,14 +698,11 @@
 	No Outline	Нет контура
 	No pictures yet	Рисунков пока нет
 	No presentation is open.	Нет открытой презентации.
-	No recent presentations match “{}”.	Нет недавних презентаций, соответствующих «{}».
 	No Recolor	Не перекрашивать
 	No Reflection	Без отражения
 	No Shadow	Без тени
 	No slides.	Нет слайдов.
 	No Soft Edges	Без сглаживания
-	No sound: {err}	Нет звука: {err}
-	No themes or templates match “{}”.	Нет тем или шаблонов, соответствующих «{}».
 	No Transform	Без трансформации
 	Nocturne	Ноктюрн
 	Not a copy of this presentation: slides are matched by position.	Это не копия этой презентации: слайды сопоставляются по порядку.
@@ -748,7 +732,6 @@
 	Offset X	Смещение X
 	Offset Y	Смещение Y
 	On Click	По щелчку
-	On Click of {name}	По щелчку на {name}
 	On Click of… (none)	По щелчку на… (нет)
 	On Mouse Click	По щелчку
 	open a presentation first	сначала откройте презентацию
@@ -761,7 +744,6 @@
 	Open source under MIT OR Apache-2.0. Not affiliated with Microsoft.	Открытый исходный код под лицензией MIT OR Apache-2.0. Не связан с Microsoft.
 	open the presentation to compare first	сначала откройте презентацию для сравнения
 	Opened the presentation as a PDF to print	Презентация открыта как PDF для печати
-	Opening {name}…	Открытие {name}…
 	Opens in PowerPoint and other presentation apps	Открывается в PowerPoint и других программах для презентаций
 	Opens on any device with a PDF viewer	Открывается на любом устройстве с программой просмотра PDF
 	Orbit	Орбита
@@ -883,7 +865,6 @@
 	Quick Styles	Экспресс-стили
 	Quick\nStyles	Экспресс-\nстили
 	Random Bars	Случайные полосы
-	Reading the file: {secs:.0} s	Чтение файла: {secs:.0} с
 	Reading View	Режим чтения
 	Reading\nView	Режим\nчтения
 	Recolor	Перекрасить
@@ -895,7 +876,6 @@
 	Regroup	Перегруппировать
 	Rehearse\nTimings	Настройка\nвремени
 	Reject	Отклонить
-	Reject All ({})	Отклонить все ({})
 	Remove All Animations	Удалить всю анимацию
 	Remove All Sections	Удалить все разделы
 	Remove Animation	Удалить анимацию
@@ -926,7 +906,6 @@
 	Replace straight quotes with smart quotes	Заменять прямые кавычки парными
 	Replace text as you type	Заменять текст при вводе
 	Replace with:	Заменить на:
-	Replaced “{from}” with “{}”.	«{from}» заменено на «{}».
 	Replace…	Заменить…
 	Reply…	Ответить…
 	Rescan Installed Fonts	Заново найти установленные шрифты
@@ -972,7 +951,6 @@
 	S Curve 2	S-образная кривая 2
 	Sample deck: Northern Lights	Пример презентации: Северное сияние
 	Save as type	Тип файла
-	Saved {path}	Сохранено: {path}
 	Saving a copy needs a file picker, which this window doesn't have.	Для сохранения копии нужен выбор файла, а в этом окне его нет.
 	Scale height	Масштаб по высоте
 	Scale height (%):	Масштаб по высоте (%):
@@ -1049,7 +1027,6 @@
 	Slate	Сланец
 	Slide	Слайд
 	Slide Image	Изображение слайда
-	Slide inserted after {slide}	Слайд вставлен после {slide}
 	Slide Master	Образец слайдов
 	Slide Number	Номер слайда
 	Slide number	Номер слайда
@@ -1061,10 +1038,6 @@
 	Slide title	Заголовок слайда
 	Slide Zoom	Масштаб слайда
 	Slide {n} of {total}	Слайд {n} из {total}
-	Slide {}	Слайд {}
-	Slide {} changed	Слайд {} изменён
-	Slide {} deleted	Слайд {} удалён
-	Slide {}: “{w}”	Слайд {}: «{w}»
 	Slide\nMaster	Образец\nслайдов
 	Slide\nNumber	Номер\nслайда
 	Slide\nSize	Размер\nслайда
@@ -1074,7 +1047,6 @@
 	Slides from Outline	Слайды из структуры
 	Slides from Outline…	Слайды из структуры…
 	Slides per page	Слайдов на странице
-	Slides Per\nPage: {}	Слайдов на\nстранице: {}
 	Slides sized for:	Размер слайдов:
 	Slides:	Слайды:
 	Slide…	Слайд…
@@ -1131,12 +1103,9 @@
 	Start With Previous	Запускать вместе с предыдущим
 	Start:	Начало:
 	Stealth end	Острый конец
-	Still opening {name}	Ещё открывается {name}
-	Stopped opening {}	Открытие прервано: {}
 	Straight Point	Прямой узел
 	Straight Segment	Прямой сегмент
 	Strips	Полосы
-	Style {i}	Стиль {i}
 	Subtle	Простые
 	Summary Zoom	Масштаб сводки
 	Switch	Переключение
@@ -1170,7 +1139,6 @@
 	Text Shadow	Тень текста
 	Text Transform	Преобразование текста
 	Text Transparency	Прозрачность текста
-	Text: {text}	Текст: {text}
 	Text\nBox	Текстовое\nполе
 	Text\nPane	Область\nтекста
 	That file is empty	Этот файл пуст
@@ -1204,7 +1172,6 @@
 	Tight	Плотный
 	Tile picture as texture	Заполнять рисунком как текстурой
 	Timing	Время
-	Timing bar {}	Полоса времени {}
 	To slide:	По слайд:
 	tOGGLE cASE	иЗМЕНИТЬ рЕГИСТР
 	Top bevel	Рельеф сверху
@@ -1286,9 +1253,6 @@
 	{label} value	Значение: {label}
 	{name} options	{name}: параметры
 @plural	{n} presentation|{n} presentations	{n} презентация|{n} презентации|{n} презентаций
-	{n} slides per page	Слайдов на странице: {n}
-	{} of {}	{} из {}
-	“{from}” isn't used explicitly.	«{from}» явно не используется.
 	“{name}”	«{name}»
 	■ Stop	■ Стоп
 	▶ Play All	▶ Воспроизвести все
