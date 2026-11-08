@@ -224,6 +224,7 @@
 	Choose a body font.	Выберите шрифт основного текста.
 	Choose a font	Выберите шрифт
 	Choose a heading font.	Выберите шрифт заголовков.
+	Choose a slide to show it, or press G to return.	Выберите слайд, чтобы показать его, или нажмите G, чтобы вернуться.
 	Choose a SmartArt Graphic	Выбор рисунка SmartArt
 	Choose where to save	Выберите, куда сохранить
 	Choosing a presentation to reuse needs the desktop app	Выбрать презентацию для повторного использования можно только в настольном приложении
@@ -232,6 +233,7 @@
 	Click	Щелчок
 	Click a colour in the picture to make it transparent	Щёлкните цвет на рисунке, чтобы сделать его прозрачным
 	Click a symbol to insert it at the insertion point.	Щёлкните символ, чтобы вставить его в позицию курсора.
+	Click the preview to zoom.	Щёлкните изображение слайда, чтобы увеличить.
 	Click the slide to take the colour under the pointer	Щёлкните слайд, чтобы взять цвет под указателем
 	Click the slide to zoom in. Esc cancels.	Щёлкните слайд, чтобы увеличить. Esc отменяет.
 	Click to add first slide	Щёлкните, чтобы добавить первый слайд
@@ -319,7 +321,6 @@
 	Date and time	Дата и время
 	Decaying Wave	Затухающая волна
 	Decimal Tab	Табуляция по разделителю
-	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	В DeckCraft нет учётных записей: входить никуда не нужно, а ваши презентации остаются на вашем устройстве.
 	DeckCraft Presentation (*.deckcraft)	Презентация DeckCraft (*.deckcraft)
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft печатает через PDF: файл скачивается, и его можно напечатать из браузера или программы просмотра PDF.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft печатает через PDF: файл открывается в программе просмотра PDF, где вы выбираете принтер.
@@ -538,6 +539,7 @@
 	Hyperlink to:	Гиперссылка на:
 	Icons	Значки
 	In	Внутрь
+	in	дюйм
 	Include hidden slides	Включить скрытые слайды
 	Increase List Level	Повысить уровень списка
 	Increase {label}	Увеличить: {label}
@@ -820,6 +822,7 @@
 	Play or pause media	Воспроизвести или приостановить
 	Play the shape's media	Воспроизвести мультимедиа фигуры
 	Play this slide's animations on the canvas	Воспроизвести анимацию этого слайда на холсте
+	Play this slide's transition	Воспроизвести переход этого слайда
 	Playback	Воспроизведение
 	Plus	Плюс
 	PNG images (all slides)	Изображения PNG (все слайды)
@@ -857,6 +860,7 @@
 	Product Information	О продукте
 	Program:	Программа:
 	Promote	Повысить уровень
+	pt	пт
 	Pulse	Пульсация
 	Push	Сдвиг
 	Put a picture in the selected node's picture placeholder	Поместить рисунок в заполнитель рисунка выбранного узла
@@ -1152,7 +1156,6 @@
 	The slide titles and bullet text as plain text	Заголовки слайдов и текст списков в виде обычного текста
 	The slide titles and bullet text for word processors	Заголовки слайдов и текст списков для текстовых редакторов
 	The spelling check is complete. No issues found.	Проверка орфографии завершена. Ошибок не найдено.
-	The version, the people and models who built it, and where to find us.	Версия, люди и модели, которые её создали, и где нас найти.
 	Theme Colors	Цвета темы
 	Themes	Темы
 	Themes (whole presentation)	Темы (вся презентация)
@@ -1177,6 +1180,7 @@
 	Top bevel	Рельеф сверху
 	Top Border	Верхняя граница
 	Top left	Вверху слева
+	Top Left Corner	Левый верхний угол
 	Top right	Вверху справа
 	Total Row	Строка итогов
 	Transition	Переход
