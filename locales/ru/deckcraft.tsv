@@ -222,10 +222,10 @@
 	Checking for updates…	Проверка обновлений…
 	Chime	Колокольчик
 	Choose a body font.	Выберите шрифт основного текста.
+	Choose a Diagram Graphic	Выбор схемы
 	Choose a font	Выберите шрифт
 	Choose a heading font.	Выберите шрифт заголовков.
 	Choose a slide to show it, or press G to return.	Выберите слайд, чтобы показать его, или нажмите G, чтобы вернуться.
-	Choose a SmartArt Graphic	Выбор рисунка SmartArt
 	Choose where to save	Выберите, куда сохранить
 	Choosing a presentation to reuse needs the desktop app	Выбрать презентацию для повторного использования можно только в настольном приложении
 	Choosing a sound file needs the desktop app	Выбрать звуковой файл можно только в настольном приложении
@@ -261,8 +261,8 @@
 	Compression options	Параметры сжатия
 	Connect Shapes	Соединить фигуры
 	Contract	Сжатие
+	Convert to Diagram	Преобразовать в схему
 	Convert to Shapes	Преобразовать в фигуры
-	Convert to SmartArt	Преобразовать в SmartArt
 	Convert to Text	Преобразовать в текст
 	Conveyor	Конвейер
 	Copied the path	Путь скопирован
@@ -325,6 +325,7 @@
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft печатает через PDF: файл скачивается, и его можно напечатать из браузера или программы просмотра PDF.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft печатает через PDF: файл открывается в программе просмотра PDF, где вы выбираете принтер.
 	DeckCraft's own format: everything is kept	Собственный формат DeckCraft: сохраняется всё
+	Decorative Text	Декоративный текст
 	Decrease List Level	Понизить уровень списка
 	Decrease {label}	Уменьшить: {label}
 	Default tab stops (in):	Позиции табуляции по умолчанию (дюймы):
@@ -353,6 +354,11 @@
 	Diagonal Down Right	Диагональ вниз вправо
 	Diagonal Up Border	Диагональная граница снизу вверх
 	Diagonal Up Right	Диагональ вверх вправо
+	Diagram	Схема
+	Diagram Design	Конструктор схем
+	Diagram items	Элементы схемы
+	Diagram Styles	Стили схем
+	Diagram text	Текст схемы
 	Diamonds From Left	Ромбы слева
 	Disappear	Исчезновение
 	Display drawing guides on screen	Показывать направляющие на экране
@@ -390,10 +396,10 @@
 	e.g. 1-3, 5	напр. 1-3, 5
 	Edit Alt Text…	Изменить замещающий текст…
 	Edit Data	Изменить данные
+	Edit Diagram Text	Изменить текст схемы
 	Edit Header & Footer	Изменить колонтитулы
 	Edit Photo Album…	Изменить фотоальбом…
 	Edit Points	Изменить узлы
-	Edit SmartArt Text	Изменить текст SmartArt
 	Edit Text	Редактировать текст
 	Edit the data: first row = series names, first column = categories.	Измените данные: первая строка = имена рядов, первый столбец = категории.
 	Edit\nData	Изменить\nданные
@@ -562,8 +568,8 @@
 	Insert Left	Вставить слева
 	Insert Picture	Вставить рисунок
 	Insert picture from file…	Вставить рисунок из файла…
-	Insert Picture in SmartArt	Вставить рисунок в SmartArt
-	Insert Picture in SmartArt…	Вставить рисунок в SmartArt…
+	Insert Picture in Diagram	Вставить рисунок в схему
+	Insert Picture in Diagram…	Вставить рисунок в схему…
 	Insert Placeholder	Вставить заполнитель
 	Insert Right	Вставить справа
 	Insert Synonym	Вставить синоним
@@ -796,7 +802,7 @@
 	Photo\nAlbum	Фото-\nальбом
 	Pick a design for this slide. Ideas are generated on your device.	Выберите оформление для этого слайда. Идеи создаются на вашем устройстве.
 	Pick a graphic; type one item per line.	Выберите рисунок и введите по одному элементу в строке.
-	picking a SmartArt picture needs the desktop app	выбрать рисунок SmartArt можно только в настольном приложении
+	picking a Diagram picture needs the desktop app	выбрать рисунок для схемы можно только в настольном приложении
 	Picture	Рисунок
 	Picture (PNG)	Рисунок (PNG)
 	Picture Border	Граница рисунка
@@ -979,9 +985,9 @@
 	Section Zoom	Масштаб раздела
 	Segment Type	Тип сегмента
 	Select a chart first.	Сначала выделите диаграмму.
+	Select a Diagram graphic to edit its text.	Выделите схему, чтобы изменить её текст.
 	Select a picture to rotate it or change brightness and contrast	Выделите рисунок, чтобы повернуть его или изменить яркость и контрастность
 	Select a shape to format it.	Выделите фигуру, чтобы изменить её формат.
-	Select a SmartArt graphic to edit its text.	Выделите рисунок SmartArt, чтобы изменить его текст.
 	Select a word on the slide, or type one above.	Выделите слово на слайде или введите его выше.
 	Select an object on the slide and add an animation from the Animations tab.	Выделите объект на слайде и добавьте анимацию на вкладке «Анимация».
 	Select None	Снять выделение
@@ -1059,11 +1065,6 @@
 	Small checkerboard	Мелкая шахматная доска
 	Small confetti	Мелкое конфетти
 	Small grid	Мелкая сетка
-	SmartArt	SmartArt
-	SmartArt Design	Конструктор SmartArt
-	SmartArt items	Элементы SmartArt
-	SmartArt Styles	Стили SmartArt
-	SmartArt text	Текст SmartArt
 	Smooth Corners	Сглаженные углы
 	Smooth Point	Гладкий узел
 	Smoothly	Плавно
@@ -1240,7 +1241,6 @@
 	With	на
 	With Previous	С предыдущим
 	With:	На:
-	WordArt	WordArt
 	Wrap Text in Shape	Переносить текст в фигуре
 	Wrap text in shape	Переносить текст в фигуре
 	X Rotation	Поворот X
